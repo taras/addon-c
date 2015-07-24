@@ -1,0 +1,5 @@
+/* addon-c */
+/* addon-c has addon-d as a dependency, so this should go after addon-d's css */
+h2 {
+  color: blue;
+}
